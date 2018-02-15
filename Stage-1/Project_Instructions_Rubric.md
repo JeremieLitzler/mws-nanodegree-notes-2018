@@ -2,8 +2,8 @@
 
 ## Checklist
 
-- [ ] Learn [CSS Grid](#1) first since Bootstrap is prohibited!
-- [ ] Go through [this ES6 course](#2)
+- [ ] Learn CSS Grid (#1) first since Bootstrap is prohibited!
+- [ ] Go through this ES6 course: #2
 - [ ] Go through the object oriented JavaScript courses: #3
 
 ## Udacity coding guidelines
