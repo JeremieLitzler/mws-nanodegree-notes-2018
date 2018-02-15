@@ -13,4 +13,4 @@
 - JS: http://udacity.github.io/frontend-nanodegree-styleguide/javascript.html
 - Git: https://udacity.github.io/git-styleguide/
 
-*Mentor question:* Is there a tool that I can use to validate my code against your guidelines (which I think are the standard guidelines)?
+**Mentor question:** Is there a tool that I can use to validate my code against your guidelines (which I think are the standard guidelines)?
