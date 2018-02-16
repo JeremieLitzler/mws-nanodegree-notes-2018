@@ -2,7 +2,7 @@
 Notebook about the different stages of the Nanodegree
 ## Quick links
 
-- [Nanodegree classroom](https://classroom.udacity.com/courses/nd024) 
+- [Nanodegree classroom](https://classroom.udacity.com/nanodegrees/nd024/syllabus/core-curriculum) 
 - [Course about Object-Oriented Javascript](https://classroom.udacity.com/courses/ud015 )
 - [Course about Promises](https://eu.udacity.com/course/javascript-promises--ud898)
 - [Forum phase 2](https://www.reddit.com/r/udacitymws)
