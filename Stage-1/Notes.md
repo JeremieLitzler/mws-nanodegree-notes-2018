@@ -1,0 +1,2 @@
+- [Lesson 2 - ](https://github.com/JeremieLitzler/mws-nanodegree-notes-2018/issues/4)
+- [Lesson 3 - Building up](https://github.com/JeremieLitzler/mws-nanodegree-notes-2018/issues/5)
